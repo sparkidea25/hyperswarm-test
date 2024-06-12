@@ -1,4 +1,7 @@
 {
   "name": "hyper-swarm",
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "hyperswarm": "^4.7.15"
+  }
 }
